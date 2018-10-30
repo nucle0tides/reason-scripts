@@ -195,5 +195,7 @@ Use `FORCE_COLOR=true react-scripts start | cat -` as your start command instead
 
 Checkout our fancy website: https://reasonml.github.io/!
 
+Checkout our ReasonReact documentation: https://reasonml.github.io/reason-react/en/
+
 We also have a very active Discord to come talk about Reason, and ask for help: https://discordapp.com/invite/reasonml
 </details></p>
